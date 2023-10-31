@@ -1,7 +1,7 @@
---
+---
 title: "Spanish Adverbials: Scales and Repetition"
 collection: publications
-permalink: /publication/spanish-adverbials
+permalink: /publications/spanish-adverbials
 excerpt: 'This is my thesis.'
 date: 2020
 venue: 'University of Utah'
