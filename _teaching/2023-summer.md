@@ -12,7 +12,8 @@ Taught two undergraduate computer science classes over Summer 2023 at Utah Valle
 
 Intro to C++ Programming
 ======
+some text
 
 Intro to Data Structures and Algorithms
 ======
-
+more text
