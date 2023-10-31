@@ -10,6 +10,6 @@ citation: 'Razo, Daniel. (2020). &quot;Spanish Adverbials: Scales and Repetition
 ---
 Abstract: asjdhfjsdfk
 
-[Link to proquest](https://www.proquest.com/openview/0352f398e1fd1fa06ebac6150236a30b/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)
+[Link to thesis on proquest](https://www.proquest.com/openview/0352f398e1fd1fa06ebac6150236a30b/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)
 
 Recommended citation: blah blah
