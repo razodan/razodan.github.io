@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Spanish Adverbials: Scales and Repetition"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/spanish-adverbials
+excerpt: 'This is my thesis'
+date: 2020
+venue: 'University of Utah'
+paperurl: 'https://www.proquest.com/openview/0352f398e1fd1fa06ebac6150236a30b/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y'
+citation: 'Razo, Daniel. (2020). &quot;Spanish Adverbials: Scales and Repetition.&quot; <i>Master's Thesis</i>. University of Utah.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Abstract: asjdhfjsdfk
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Link to proquest](https://www.proquest.com/openview/0352f398e1fd1fa06ebac6150236a30b/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)
