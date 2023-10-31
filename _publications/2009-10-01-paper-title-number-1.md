@@ -1,4 +1,4 @@
----
+--
 title: "Spanish Adverbials: Scales and Repetition"
 collection: publications
 permalink: /publication/spanish-adverbials
