@@ -4,13 +4,13 @@ collection: publications
 permalink: /publication/spanish-adverbials
 excerpt: 'A thesis discussing uses and meanings of some aspectual adverbials and repetitives in Spanish within the framework of minimalist syntax and propositional logic.'
 date: 2020-12-01
-venue: 'Journal 1'
-paperurl: 'http://razodan.github.io/files/spanish-adverbials.pdf'
-citation: 'Razo, Daniel. (2020). &quot;Spanish Adverbials: Scales and Repetition.&quot; Masters Thesis. University of Utah.'
+venue: 'University of Utah'
+paperurl: 'https://www.proquest.com/docview/2725552292/587D908A33AE4959PQ/1?accountid=14779'
+citation: 'Razo, Daniel. (2020). &quot;Spanish Adverbials: Scales and Repetition.&quot; Salt Lake City, UT: University of Utah.'
 ---
 
 <a href='http://razodan.github.io/files/spanish-adverbials.pdf'>Download paper here</a>
 
-This paper is about the number 2. The number 3 is left for future work.
+A thesis discussing uses and meanings of some aspectual adverbials and repetitives in Spanish within the framework of minimalist syntax and propositional logic.
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Razo, Daniel. (2020). "Spanish Adverbials: Scales and Repetition". Salt Lake City, UT: University of Utah.
