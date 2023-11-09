@@ -1,7 +1,7 @@
 ---
 title: "Xenofantasia"
 excerpt: "EP 1: Necro Galaxia Plus<br/><img src='/images/500x300.png'>"
-collection: portfolio
+collection: music
 ---
 
 Track listing:  
