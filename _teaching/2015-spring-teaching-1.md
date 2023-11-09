@@ -1,20 +1,34 @@
 ---
-title: "Teaching experience 2"
+title: "UVU Teaching Assistantships"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Teaching Assistantship"
+permalink: /teaching/teaching-assistantships-uvu
+venue: "Utah Valley University"
+date: 2022-05-01
+location: "Orem, Utah"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Fall 2023
+=========
+CS 4470 Artificial Intelligence  
+CS 3530 Database Mgmt for Data Sciences  
+CS 1400 Fundamentals of Programming
 
-Heading 1
-======
+Spring 2023
+=========
+CS 3530 Database Mgmt for Data Sciences  
+CS 2700 Causal Inference  
+CS 2420 Intro to Data Structures and Algorithms  
+CS 2370 Intro to C++ Programming  
 
-Heading 2
-======
+Fall 2022
+=========
+CS 3060 Operating Systems Theory  
+CS 2600 Computer Networks I  
+CS 2420 Intro to Data Structures and Algorithms  
+CS 2370 Intro to C++ Programming  
 
-Heading 3
-======
+Summer 2022
+=========
+CS 2420 Intro to Data Structures and Algorithms  
+CS 1410 Object-Oriented Programming  
