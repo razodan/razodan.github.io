@@ -13,6 +13,7 @@ Currently a graduate student in the Master's of Computer Science program at Utah
 I earned a Master's in Linguistics from University of Utah. My research then was focused on the form and meaning of aspectual adverbials such as *still*, *already*, *not anymore*, *not yet*, *again*, and *anew*, as well as their Spanish counterparts. The title of my thesis is "Spanish Aspectual Adverbials: Scales and Repetition".
 
 ------------------------------
+<font size="3">
 
 ## Data Science Research interests:
 - NLP for low-resource languages, especially sentiment analysis
@@ -38,3 +39,4 @@ I earned a Master's in Linguistics from University of Utah. My research then was
 - Music composition, especially counterpoint
 - Abstract algebra in music
 - Ballet (Cecchetti)
+</font>
